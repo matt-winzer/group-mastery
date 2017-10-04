@@ -1,5 +1,7 @@
 # Group Mastery: Discuss Key Frontend Concepts
 
+Spend the next 5-10 minutes writing out answers for the following sub-standards. If you don't have an answer, write out some ideas/notes you have about the topic. Once everyone has their own answers written out we will discuss as a group and go over what an ideal answer looks like.
+
 ## Define and Describe AJAX
   - Definition:
   - Description:
